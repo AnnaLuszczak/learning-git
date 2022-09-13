@@ -1,1 +1,1 @@
-print ("sth")
+print ("something")
